@@ -1,4 +1,13 @@
 import Image from "next/image";
+import axios from 'axios';
+
+// axios request to get the todo data from the api, use a useEffect
+// url would be something like https://probable-journey-7v9xj6vwvqg92wpx-3000.app.github.dev/api/todo
+// get, post, put, delete
+// create a form in react
+// create state hooks for storing the values of the input fields
+// write on submit functions for the forms handling create, update, read, delete
+
 
 export default function Home() {
   return (

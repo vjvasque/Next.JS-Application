@@ -37,4 +37,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 1) Creating APIs and middleware in Next.js - review the Resend example
-2) 
+2) Review the api/todo/route.ts example 
+3) Create new api/tasks/route.ts 
+4) Display the tasks and todos on the frontend. 
+
+
+React - State hooks, use effect, on submit form action
+Next.js - How to create middleware and APIs
+
